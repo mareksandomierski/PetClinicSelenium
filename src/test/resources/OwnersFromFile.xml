@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ns2:InputTestData xmlns:ns2="urn:org:easetech:easytest:1.0">
-    <TestMethod name="OwnersFromFile">
+    <TestMethod name="OwnerFromFile">
         <Description>Different User Registration Tests
         </Description>
 

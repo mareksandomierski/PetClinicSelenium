@@ -12,7 +12,7 @@ public class DriverTest {
     WebDriver driver;
 
     public void CreateWebdriver (){
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Marek\\IdeaProjects\\PetClinicSelenium\\src\\test\\resources\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "/home/mareksandomierski/Downloads/PetClinicSelenium/src/test/resources/chromedriver");
         driver = new ChromeDriver();
         driver.get(URL);
 
