@@ -7,24 +7,24 @@
         <TestRecord id="1">
             <Description>Owner 1</Description>
             <InputData>
-                <Entry key="firstName" value="Jan" />
-                <Entry key="lastName" value="Nowak" />
-                <Entry key="address" value="AAAA" />
-                <Entry key="city" value="bbbbb" />
-                <Entry key="telephone" value="5553" />
-                <Entry key="nameField" value="Jan Nowak"/>
+                <Entry key="firstName" value="Barbara" />
+                <Entry key="lastName" value="Krzak" />
+                <Entry key="address" value="Wesoła 11" />
+                <Entry key="city" value="Sopot" />
+                <Entry key="telephone" value="600145896" />
+                <Entry key="nameField" value="Barbara Krzak"/>
             </InputData>
         </TestRecord>
 
         <TestRecord id="2">
             <Description>Owner 2</Description>
             <InputData>
-                <Entry key="firstName" value="Nowak" />
-                <Entry key="lastName" value="Nowak" />
-                <Entry key="address" value="1fsfaaf" />
-                <Entry key="city" value="Gdansk" />
-                <Entry key="telephone" value="4222" />
-                <Entry key="nameField" value="Nowak Nowak"/>
+                <Entry key="firstName" value="Wiktor" />
+                <Entry key="lastName" value="Zaborowski" />
+                <Entry key="address" value="Leopolda 16a" />
+                <Entry key="city" value="Gdynia" />
+                <Entry key="telephone" value="569365256" />
+                <Entry key="nameField" value="Wiktor Zaborowski"/>
             </InputData>
         </TestRecord>
 
